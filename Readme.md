@@ -1,6 +1,6 @@
 # DotFiles
 
-A way to share dotfiles (~/*.) across instances.
+A way to share dotfiles (~/.*) across instances.
 
 ## Introduction
 
